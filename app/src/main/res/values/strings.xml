@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuzzProject</string>
+    <string name="buzz_logo_on_splash_screen">Buzz Logo on Splash Screen</string>
+    <string name="login"><u>Login</u></string>
+    <string name="we_missed_you">We missed you.</string>
+    <string name="signup"><u>SignUp</u></string>
+</resources>
